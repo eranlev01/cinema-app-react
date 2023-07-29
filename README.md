@@ -1,3 +1,4 @@
+# Link to live demo: https://master.d23yg1punpn4x8.amplifyapp.com/
 # cinema-app-react
 movies and tv-series app.
 
