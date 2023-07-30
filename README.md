@@ -12,6 +12,8 @@ movies and tv-series app.
 * Search Page - Search movie\tv-series.
 
 
+---------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
