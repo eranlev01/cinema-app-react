@@ -1,3 +1,17 @@
+# Link to live demo: https://master.d23yg1punpn4x8.amplifyapp.com/
+# cinema-app-react
+movies and tv-series app.
+
+# Run the code
+* npm install && npm start
+
+# Description
+* Trending Page - most popular movies an tv-series.
+* Movies Page - movies cards with genres filter.
+* TV-Series Page - tv-series cards with genres filter.
+* Search Page - Search movie\tv-series.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
